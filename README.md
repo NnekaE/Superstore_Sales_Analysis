@@ -1,6 +1,7 @@
 # Superstore_Sales_Analysis
 
-![Dashboard Preview](US_Superstore_Dashboard)
+![Executive Dashboard](./US_Superstore_Dashboard.png)
+
 
 Interactive Power BI Executive Dashboard analyzing $2.3M in US Superstore sales data, focusing on profit margins, regional performance, and customer segmentation.
 # Project Highlights
@@ -37,6 +38,8 @@ With the new architecture in place, the data began to tell a clear story:
 **The Golden Segments**: My analysis identified a segment of "Champions"—loyal, high-value customers who could be further incentivized through optimized shipping perks.
 
 **Regional Excellence**: The West region emerged as the "playbook" for success, maintaining high margins through superior product mix and pricing discipline.
+
+![Customer Intelligence](./Customer_Intelligence.png)
 
 4.**The Impact: Data-Driven Recommendations**
 
