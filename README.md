@@ -1,4 +1,7 @@
 # Superstore_Sales_Analysis
+
+![Dashboard Preview](US_Superstore_Dashboard)
+
 Interactive Power BI Executive Dashboard analyzing $2.3M in US Superstore sales data, focusing on profit margins, regional performance, and customer segmentation.
 # Project Highlights
 **Star Schema Architecture**: You have successfully transformed flat data into a professional star schema by creating dedicated dimension tables for Customers, Products, Locations, and Shipping Modes.
@@ -10,7 +13,7 @@ Interactive Power BI Executive Dashboard analyzing $2.3M in US Superstore sales 
 **Performance Analysis**: The project highlights regional disparities, specifically suggesting that successful strategies from the West region be applied to the Central region and loss-making states like Texas and Illinois.
 
 
-# The Story of the Data: From Raw Chaos to Executive Clarity
+## The Story of the Data: From Raw Chaos to Executive Clarity
 
 1. **The Challenge: A Sea of Information**
 The project began with a "flat" dataset containing over 9,000 rows of raw transaction data from the US Superstore. While rich in detail, the data was unstructured, making it difficult for leadership to
@@ -45,7 +48,7 @@ With the new architecture in place, the data began to tell a clear story:
 
 **Nurture "Potential" customers** into "Champions" using data-backed loyalty drivers.
 
-# The Technical Stack: Enterprise-Grade Data Engineering
+## The Technical Stack: Enterprise-Grade Data Engineering
 
 While the dashboard provides the final insights, the engine behind it was built using a robust, containerized data pipeline:
 
@@ -59,7 +62,8 @@ While the dashboard provides the final insights, the engine behind it was built 
 
 **Visualization**: Built a fully interactive Executive Overview in Power BI, utilizing DAX for advanced measures and profit analysis.
 
-## 🛠️ Technical Stack
-* **Database:** SQL Server hosted in a **Docker Container** for isolated development.
-* **Tools:** **Azure Data Studio** for SQL development and **Power BI** for visualization.
-* **Architecture:** Custom-built **Star Schema** with Fact and Dimension tables.
+**Database:** SQL Server hosted in a **Docker Container** for isolated development.
+
+**Tools:** **Azure Data Studio** for SQL development and **Power BI** for visualization.
+
+**Architecture:** Custom-built **Star Schema** with Fact and Dimension tables.
