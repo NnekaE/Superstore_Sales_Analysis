@@ -1,8 +1,6 @@
 #  Driving Operational Excellence: US Superstore Profitability Analysis
 
-![Customer Intelligence](./Customer_Intelligence.png)
-
-![Executive Dashboard](./US_Superstore_Dashboard.png)
+![Executive Dashboard](./Executive_overview_dashboard.png)
 
 ### Project Overview
 This project transforms raw transactional data from the US Superstore dataset into actionable business intelligence. By leveraging a SQL Server Star Schema and an interactive Power BI Dashboard, this analysis uncovers key profitability drivers, identifies regional performance gaps, and segments customers to drive operational excellence.  
@@ -33,6 +31,8 @@ To optimize performance, the raw flat file was reshaped into a Star Schema with 
 **Regional Disparities**: The West region led with a 25% profit margin, while states like Texas and Illinois operated at a loss despite high sales volume.   
 
 **Customer Loyalty**: 793 loyal customers drive a 98% repeat purchase rate, with "Champions" delivering a disproportionate share of total profit.
+
+![Customer Intelligence](./Customer_Intelligence.png)
 
 ### Advanced DAX Metrics
 
